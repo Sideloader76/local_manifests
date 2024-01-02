@@ -37,5 +37,5 @@
     <project name="android_hardware_samsung_slsi-linaro_config"         path="hardware/samsung_slsi-linaro/config"   remote="source2"   revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_graphics"       path="hardware/samsung_slsi-linaro/graphics" remote="source2"   revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_interfaces"     path="hardware/samsung_slsi-linaro/interfaces"  remote="source2"   revision="lineage21.0" />
-
+    <project name="platform_external_Camera"                            path="external/Camera"                  remote="source"      revision="14" />
 </manifest>
