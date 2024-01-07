@@ -16,7 +16,7 @@
     <project name="android_device_samsung_exynos9820-common"            path="device/samsung/exynos9820-common" remote="source"      revision="alpha-14" />
 
     <!--Vendors Trees-->
-    <project name="android_vendor_samsung_beyond0lte"                   path="vendor/samsung/beyond0lte"        remote="source"      revision="lineage_21.0" />
+    <project name="android_vendor_samsung_beyond0lte"                   path="vendor/samsung/beyond0lte"        remote="source"      revision="lineage-21.0" />
     <project name="android_vendor_samsung_beyond1lte"                   path="vendor/samsung/beyond1lte"        remote="source"      revision="lineage-21.0" />
     <project name="android_vendor_samsung_beyond2lte"                   path="vendor/samsung/beyond2lte"        remote="source"      revision="lineage-21.0" />
     <project name="android_vendor_samsung_beyondx"                      path="vendor/samsung/beyondx"           remote="source"      revision="lineage-21.0" />
@@ -36,6 +36,5 @@
     <project name="android_hardware_samsung_slsi-linaro_exynos5"        path="hardware/samsung_slsi-linaro/exynos5"  remote="source2"   revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_config"         path="hardware/samsung_slsi-linaro/config"   remote="source2"   revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_graphics"       path="hardware/samsung_slsi-linaro/graphics" remote="source2"   revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_interfaces"     path="hardware/samsung_slsi-linaro/interfaces"  remote="source2"   revision="lineage21.0" />
-    <project name="platform_external_Camera"                            path="external/Camera"                  remote="source"      revision="14" />
+    <project name="android_hardware_samsung_slsi-linaro_interfaces"     path="hardware/samsung_slsi-linaro/interfaces"  remote="source2"   revision="lineage-21.0" />
 </manifest>
