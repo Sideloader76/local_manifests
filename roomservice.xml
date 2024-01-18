@@ -3,7 +3,6 @@
 
     <!--Remotes-->
     <remote name="source"        fetch="https://github.com/Sideloader76"/>
-    <remote name="source2"       fetch="https://github.com/linux4-bringup-priv"/>
 
     <!--Devices Trees-->
     <project name="android_device_samsung_beyond0lte"                   path="device/samsung/beyond0lte"        remote="source"      revision="evo-14" />
@@ -31,10 +30,10 @@
     <!-- Dependencies -->
     <project name="android_device_samsung_slsi_sepolicy"                path="device/samsung_slsi/sepolicy"     remote="source"      revision="lineage-21.0" />
     <project name="android_hardware_samsung"                            path="hardware/samsung"                 remote="source"      revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_openmax"        path="hardware/samsung_slsi-linaro/openmax"  remote="source2"   revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_exynos"         path="hardware/samsung_slsi-linaro/exynos"   remote="source2"   revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_exynos5"        path="hardware/samsung_slsi-linaro/exynos5"  remote="source2"   revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_config"         path="hardware/samsung_slsi-linaro/config"   remote="source2"   revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_graphics"       path="hardware/samsung_slsi-linaro/graphics" remote="source2"   revision="lineage-21.0" />
-    <project name="android_hardware_samsung_slsi-linaro_interfaces"     path="hardware/samsung_slsi-linaro/interfaces"  remote="source2"   revision="lineage-21.0" />
+    <project name="android_hardware_samsung_slsi-linaro_openmax"        path="hardware/samsung_slsi-linaro/openmax"  remote="source"   revision="lineage-21.0" />
+    <project name="android_hardware_samsung_slsi-linaro_exynos"         path="hardware/samsung_slsi-linaro/exynos"   remote="source"   revision="lineage-21.0" />
+    <project name="android_hardware_samsung_slsi-linaro_exynos5"        path="hardware/samsung_slsi-linaro/exynos5"  remote="source"   revision="lineage-21.0" />
+    <project name="android_hardware_samsung_slsi-linaro_config"         path="hardware/samsung_slsi-linaro/config"   remote="source"   revision="lineage-21.0" />
+    <project name="android_hardware_samsung_slsi-linaro_graphics"       path="hardware/samsung_slsi-linaro/graphics" remote="source"   revision="lineage-21.0" />
+    <project name="android_hardware_samsung_slsi-linaro_interfaces"     path="hardware/samsung_slsi-linaro/interfaces"  remote="source"   revision="lineage-21.0" />
 </manifest>
