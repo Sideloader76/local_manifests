@@ -3,6 +3,7 @@
 
     <!--Remotes-->
     <remote name="source"        fetch="https://github.com/Sideloader76"/>
+    <remote name="source2"       fetch="https://github.com/CherishOS-exynos9820"/>
 
     <!--Devices Trees-->
     <project name="android_device_samsung_beyond0lte"                   path="device/samsung/beyond0lte"        remote="source"      revision="evo-14" />
@@ -15,14 +16,14 @@
     <project name="android_device_samsung_exynos9820-common"            path="device/samsung/exynos9820-common" remote="source"      revision="evo-14" />
 
     <!--Vendors Trees-->
-    <project name="android_vendor_samsung_beyond0lte"                   path="vendor/samsung/beyond0lte"        remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_beyond1lte"                   path="vendor/samsung/beyond1lte"        remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_beyond2lte"                   path="vendor/samsung/beyond2lte"        remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_beyondx"                      path="vendor/samsung/beyondx"           remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_d1"                           path="vendor/samsung/d1"                remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_d2s"                          path="vendor/samsung/d2s"               remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_d2x"                          path="vendor/samsung/d2x"               remote="source"      revision="lineage-21.0" />
-    <project name="android_vendor_samsung_exynos9820-common"            path="vendor/samsung/exynos9820-common" remote="source"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_beyond0lte"                   path="vendor/samsung/beyond0lte"        remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_beyond1lte"                   path="vendor/samsung/beyond1lte"        remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_beyond2lte"                   path="vendor/samsung/beyond2lte"        remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_beyondx"                      path="vendor/samsung/beyondx"           remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_d1"                           path="vendor/samsung/d1"                remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_d2s"                          path="vendor/samsung/d2s"               remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_d2x"                          path="vendor/samsung/d2x"               remote="source2"      revision="lineage-21.0" />
+    <project name="android_vendor_samsung_exynos9820-common"            path="vendor/samsung/exynos9820-common" remote="source2"      revision="lineage-21.0" />
 
     <!--Kernel Tree-->
     <project name="android_kernel_samsung_exynos9820"                   path="kernel/samsung/exynos9820"        remote="source"      revision="lineage-21.0" />
