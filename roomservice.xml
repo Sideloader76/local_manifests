@@ -30,7 +30,7 @@
 
     <!-- Dependencies -->
     <project name="android_device_samsung_slsi_sepolicy"                path="device/samsung_slsi/sepolicy"     remote="source"      revision="lineage-21.0" />
-    <project name="android_hardware_samsung"                            path="hardware/samsung"                 remote="source"      revision="lineage-21.0" />
+    <project name="android_hardware_samsung"                            path="hardware/samsung"                 remote="source"      revision="evo-14" />
     <project name="android_hardware_samsung_slsi-linaro_openmax"        path="hardware/samsung_slsi-linaro/openmax"  remote="source"   revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_exynos"         path="hardware/samsung_slsi-linaro/exynos"   remote="source"   revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_exynos5"        path="hardware/samsung_slsi-linaro/exynos5"  remote="source"   revision="lineage-21.0" />
